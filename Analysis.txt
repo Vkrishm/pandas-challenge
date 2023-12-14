@@ -1,0 +1,27 @@
+Analysis - PyCityScools
+
+Local Govt Area Summary:
+Percentage of students passing in Maths is 86% and Reading is 84%. But the overall pass percentage comes down to 72%. So may students are doing either good in Maths or reading but not both.
+
+Top performing schools by Overall passing:
+Top two schools Griffin and Cabrera high school are with 81% and 80% respectively. They both are Independant schools. Top third school is Bailey stands at 80%, which is a Government school.
+
+Bottom performing schools by Overall passing:
+Four schools out of five bottom performing schools are Government schools. Hernandez high school is the least performing on Overall passing rate at 66%
+
+Maths and Reading scores by year:
+From this data, Maths and Reading scores are hardly changed from the Year 9 through to Year 12.
+
+Scores by school spending:
+It should be noted that the increase in spending doesnt improve the passing rate. Schools that spent less than $585 per student have a passing rate of 76%. Schools that spend in the range of $585-615 have the highest pass rate of 79% and the schools spend in the range of $615-675 have the lowest passing rate of 66%.
+
+Scores by school size:
+It is observed that school size upto 2000 have a better overall passing rate of 78% and above. Larger schools with 2000 plus students have a low passing rate of 70%.
+
+Scores by school type:
+From this data, Independant schools (77%) do better in terms of passing rates than the Government schools (70%). 
+
+Conclusions:
+1. Independant schools are tends to do better than the Governments schools in terms of passing rate.
+2. School size remains a critical factor in the passing rate. School size of less than 2000 produce better results.
+3. Spending more doesnt actually produce better results. Schools that spend in the range of $585-615 have the highest pass rate of 79%
